@@ -1,0 +1,18 @@
+CAO
+
+binary arithmetic
+https://www.tutorialspoint.com/computer_logical_organization/binary_arithmetic.htm
+
+
+logic micro-operations
+https://upscfever.com/upsc-fever/en/gatecse/en-gatecse-chp153.html
+
+cpu architecture
+https://www.tutorialspoint.com/computer_logical_organization/cpu_architecture.htm
+
+common bus system
+https://www.tutorialspoint.com/what-is-common-bus-system-in-computer-architecture
+
+
+
+programming in C
